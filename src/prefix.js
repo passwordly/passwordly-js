@@ -1,0 +1,2 @@
+(function(exports) {
+  exports.passwordly = {};
